@@ -92,6 +92,7 @@ The framework consists of four components:
 
 ## Repository Structure
 
+```text
 maritime-isr-agent-evaluation/
 │
 ├── simulation/        # Scenario generation and vessel movement modeling
@@ -101,6 +102,7 @@ maritime-isr-agent-evaluation/
 ├── data_processing/   # AIS preprocessing and feature extraction
 ├── experiments/       # Reproducible experiment configs and results
 └── README.md
+```
 
 ---
 
