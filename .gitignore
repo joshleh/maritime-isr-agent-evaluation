@@ -205,3 +205,22 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Large AIS datasets
+data/
+*.parquet
+*.feather
+*.csv
+*.gpkg
+
+# Model artifacts
+models/
+checkpoints/
+
+# Logs
+logs/
+*.log
+
+# MacOS
+.DS_Store
+
